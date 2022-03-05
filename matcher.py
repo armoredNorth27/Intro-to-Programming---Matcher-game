@@ -1,5 +1,4 @@
 # Name: Alexander Nedev
-# Student Number: 101195595
 
 import random
 SIZE = 4
