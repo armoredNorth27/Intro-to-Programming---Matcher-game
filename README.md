@@ -11,4 +11,4 @@ The rules of the game are all explained when you play it. There are also comment
   -Conditional statements <br>
   -Loops(for loops and while loops) <br>
 
-These concepts are used in order to create a game with a bit of complexity behind it.
+These concepts are used in order to create a game with a bit of complexity behind it. This assignment was solved using only Python as that's what was required.
